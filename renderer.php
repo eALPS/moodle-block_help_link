@@ -4,13 +4,11 @@ class block_help_link_renderer extends plugin_renderer_base {
 
 	public function help_link() {
 		$content = html_writer::start_tag('div', array('style'=>'text-align: center;'));
-		/*
-$content .= html_writer::start_tag('button', 'btn btn-success viewOptionCheck');
+		$content .= html_writer::start_tag('button', 'btn btn-success viewOptionCheck');
 		$content .= html_writer::start_tag('i', 'icon-white icon-info-sign');
 		$content .= html_writer::end_tag('i');
-*/
 		$content .= 'eALPSヘルプ';
-		//$content .= html_writer::end_tag('button');
+		$content .= html_writer::end_tag('button');
 		$content .= html_writer::end_tag('div');
 	
 /*

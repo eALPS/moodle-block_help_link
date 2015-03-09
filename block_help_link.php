@@ -1,6 +1,6 @@
 <?php
 
-class block_search_courses extends block_base {
+class block_help_link extends block_base {
 
 	function init() {
 		$this->title = get_string('pluginname', 'block_help_link');
