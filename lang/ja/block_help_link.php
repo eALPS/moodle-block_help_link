@@ -11,4 +11,4 @@
 $string['configcontent'] = 'Content';
 $string['configtitle'] = 'Block title';
 $string['leaveblanktohide'] = 'leave blank to hide the title';
-$string['pluginname'] = 'コース検索';
+$string['pluginname'] = 'ヘルプリンク';
