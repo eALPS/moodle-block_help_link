@@ -11,4 +11,4 @@
 $string['configcontent'] = 'Content';
 $string['configtitle'] = 'Block title';
 $string['leaveblanktohide'] = 'leave blank to hide the title';
-$string['pluginname'] = 'Help Link';
+$string['pluginname'] = 'External Link';

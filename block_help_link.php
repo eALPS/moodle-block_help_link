@@ -33,8 +33,8 @@ class block_help_link extends block_base {
 		$renderer = $this->page->get_renderer('block_help_link');
 
 		$this->content = new stdClass;
-/* 		$this->content->text = 'まだ作ってる最中'; */
-		$this->content->footer = $renderer->help_link();
+		$this->content->text = $renderer->help_link();
+		/* $this->content->footer = 'まだ作ってる最中'; */
 
 		return $this->content;
 	}
