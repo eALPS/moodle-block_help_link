@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Strings for component 'block_search_courses', language 'en', branch 'MOODLE_23_STABLE'
+ * Strings for component 'block_help_link', language 'en', branch 'MOODLE_23_STABLE'
  *
- * @package   block_search_courses
+ * @package   block_help_link
  * @copyright 2012 Osamu HASEGAWA
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
